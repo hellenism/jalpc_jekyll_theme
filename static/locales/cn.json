@@ -1,4 +1,4 @@
-{
+﻿{
   "website":{
     "title": "杰克的博客"
   },
@@ -26,21 +26,21 @@
   },
   "career":{
     "my_career": "职业生涯",
-    "nextcode": "Nextcode",
-    "nextcode_des": "现在我在Nextcode，使用Python为基因分析项目做网站.",
-    "nextcode_date": "2016年4月",
-    "nextcode_job": "Python工程师",
-    "netease": "网易游戏",
-    "netease_des": "在网易游戏，我了解到游戏体系，并使用Python代码为自动化运维服务.",
-    "netease_date": "2015年6月",
-    "netease_job": "运维开发工程师",
-    "ucloud": "Ucloud",
-    "ucloud_des": "在Ucloud,我开始和服务器、操作系统打交道，并使用shell脚本管理海量服务器.",
-    "ucloud_date": "2013年9月",
-    "ucloud_job": "运维开发工程师",
+    "nextcode": "腾讯",
+    "nextcode_des": "现在我在腾讯，负责aPad QQ和Mac QQ开发工作.",
+    "nextcode_date": "2015年5月",
+    "nextcode_job": "Android开发工程师/iOS开发工程师",
+    "netease": "搜狐畅游",
+    "netease_des": "以Android开发工程师身份加入搜狐畅游，负责移动端产品CLauncher的开发工作.",
+    "netease_date": "2014年6月",
+    "netease_job": "Android开发工程师",
+    "ucloud": "Magus-soft",
+    "ucloud_des": "在Magus-soft，开始了程序员职业生涯",
+    "ucloud_date": "2012年7月",
+    "ucloud_job": "WindowsPhone开发工程师",
     "college": "毕业",
-    "college_des": "2013年7月大学毕业，开始了IT职业生涯",
-    "college_date": "2013年7月",
+    "college_des": "2012年7月毕业于北航北海学院",
+    "college_date": "2012年7月",
     "college_job": "学生"
   },
   "blog":{
