@@ -21,4 +21,4 @@ xCode插件放置在~/Library/Application\ Support/Developer/Shared/Xcode/Plug-i
 ![img1](/Resource/imgs/post_1/4.png)4.运行Alcatraz工程，将会弹出对话框，选择Load Bundle.<br />
 ![img1](/Resource/imgs/post_1/5.png)5.安装完成，重启xCode.可在xCode的menu -> Window栏目下看到Package Manager.<br />
 ![img1](/Resource/imgs/post_1/6.png)
-<br />安装其他插件也可依据此法.
+<br />*安装其他插件也可依据此法.*
