@@ -17,6 +17,7 @@ icon: icon-javascript
 
 一.新建一个窗口并弹出
 1.创建xib和 .h +.m文件，保证xib与m相关联(.xib关联.m , File ' s Owner关联Window)
+ ![img1](/Resource/imgs/post_2/1.png)
  
 
 2.重写init方法，编写相关业务<br />
@@ -42,7 +43,7 @@ icon: icon-javascript
  
 二.新建一个模态窗口
 1.保证xib中的Visble At Launch属性取消勾选
- 
+![img1](/Resource/imgs/post_2/2.png)
 
 2.以模态形式弹出窗口
 <pre><code>
