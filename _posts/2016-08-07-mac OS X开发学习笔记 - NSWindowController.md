@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "JavaScript中if语句的几种优化代码的写法"
-date:   2016-06-26
-desc: "JavaScript中if语句的几种优化代码的写法"
-keywords: "JavaScript,if,optimise,statement,优化"
+title:  "[mac OS X开发学习记]NSWindowController的使用"
+date:   2016-08-07
+desc: "[mac OS X开发学习笔记]NSWindowController的使用"
+keywords: "MacOs,NSWindowController"
 categories: [HTML]
-tags: [JavaScript]
+tags: [Object-C]
 icon: icon-javascript
 ---
 
