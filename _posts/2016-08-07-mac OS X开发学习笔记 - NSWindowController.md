@@ -20,7 +20,7 @@ icon: icon-javascript
  
 
 2.重写init方法，编写相关业务<br />
-``` c
+```
 - (instancetype)init
 {
     self = [super initWithWindowNibName:@"WindowOne"];
@@ -32,7 +32,7 @@ icon: icon-javascript
 ```
 
 3.show window (WindowController需要是一个成员变量,否则出现窗口show一下迅速消失的现象)<br />
-``` c
+```
 - (IBAction)btnClickOpenWindow:(id)sender 
 {
     _controller = [[WindowOneController alloc]init];
@@ -45,7 +45,7 @@ icon: icon-javascript
  
 
 2.以模态形式弹出窗口
-``` c
+```
 -(IBAction)click:(id)sender
 {
 	_twoController = [[WindowTwoController alloc]init];
@@ -68,7 +68,7 @@ icon: icon-javascript
 
 
 3.模态窗口中得ok和cancel按钮click事件，目的是return回一个code
-``` c
+```
 - (IBAction)didTapCancelButton:(id)sender {
    [self.window.sheetParent endSheet:self.window returnCode:NSModalResponseCancel];
 }
@@ -82,7 +82,7 @@ NSWindowController可能需要类型appear和disappear的方法，但是生命�
 1.NSWindowController实现NSWindowDelegate
 
 2.在NSWindowControoler的WindowDidLoad内设置Delegate
-``` c
+```
 - (void)windowDidLoad {
     [super windowDidLoad];
     [[self window]setDelegate:self];
@@ -91,7 +91,7 @@ NSWindowController可能需要类型appear和disappear的方法，但是生命�
 
 
 3.NSWindowController实现windowDidChangeOcclusionState方法
-``` c
+```
 - (void)windowDidChangeOcclusionState:(NSNotification *)notification
 {
     if (self.window.occlusionState & NSWindowOcclusionStateVisible)
