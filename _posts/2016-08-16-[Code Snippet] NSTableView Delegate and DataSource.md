@@ -4,7 +4,7 @@ title:  "[Code Snippet] NSTableView Delegate and DataSource"
 date:   2016-08-016
 desc: "[Code Snippet] NSTableView Delegate and DataSource"
 keywords: "MacOS,Code Snippet"
-categories: [MacOS]
+categories: [HTML]
 tags: [MacOS]
 icon: icon-javascript
 ---
