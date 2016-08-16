@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "[Code Snippet] NSTableView Delegate and DataSource"
-date:   2016-08-016
+date:   2016-08-16
 desc: "[Code Snippet] NSTableView Delegate and DataSource"
 keywords: "MacOS,Code Snippet"
 categories: [HTML]
